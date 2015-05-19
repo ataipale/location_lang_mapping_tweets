@@ -1,0 +1,5 @@
+.DS_Store
+config.sh
+venv/
+geolang.txt
+id_txt_co_lang_hash.txt
